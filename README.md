@@ -48,3 +48,5 @@ If you need fast updates, mod compatibility, please consider using the fork [pat
 Copy link ```https://raw.githubusercontent.com/Xbozon/rpg-styled-ui/main/module.json``` to
 
 ![alt text](install.jpg "Title")
+
+If it shows *Version 1.2.2 in your modules* right click, edit, and change maximum to version of Foundry you are using.
